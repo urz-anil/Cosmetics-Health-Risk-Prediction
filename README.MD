@@ -67,3 +67,6 @@ Below is a sample output showing the confusion matrix of predictions made by the
 4. Get health risk prediction instantly!
 
 ---
+
+📥 Clone the repository using:
+git clone https://github.com/urz-anil/Cosmetics-Health-Risk-Prediction.git
